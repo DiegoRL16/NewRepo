@@ -7,6 +7,8 @@ Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Tareas", "Tareas", "{7A6976
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "A", "A", "{A0623B91-7D66-48E0-8379-99C1CCAC30ED}"
 EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "As", "As", "{3465DC22-1ED2-4561-9E8B-F8EE08EE3EFB}"
+EndProject
 Global
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
