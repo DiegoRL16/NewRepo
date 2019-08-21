@@ -11,5 +11,5 @@ namespace ConsoleApp
         static void Main(string[] args)
         {
         }
-    }
+    } 
 }
