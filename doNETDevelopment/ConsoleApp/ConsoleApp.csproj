@@ -46,6 +46,10 @@
     <Compile Include="EjemplosDeClase\SumaProductoNumeros.cs" />
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="Tareas1\Tarea1.cs" />
+    <Compile Include="Tareas1\Tarea2.cs" />
+    <Compile Include="Tareas1\Tarea3.cs" />
+    <Compile Include="Tareas1\Tarea4.cs" />
   </ItemGroup>
   <ItemGroup>
     <None Include="App.config" />
