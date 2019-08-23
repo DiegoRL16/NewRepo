@@ -48,10 +48,13 @@
     <Compile Include="EjemplosDeClase\SumaProductoNumeros.cs" />
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
-    <Compile Include="Tareas1\Tarea1.cs" />
-    <Compile Include="Tareas1\Tarea2.cs" />
-    <Compile Include="Tareas1\Tarea3.cs" />
-    <Compile Include="Tareas1\Tarea4.cs" />
+    <Compile Include="Tareas 1\Tarea1.cs" />
+    <Compile Include="Tareas 1\Tarea2.cs" />
+    <Compile Include="Tareas 1\Tarea3.cs" />
+    <Compile Include="Tareas 1\Tarea4.cs" />
+    <Compile Include="Tareas 2\Tarea1.cs" />
+    <Compile Include="Tareas 2\Tarea2.cs" />
+    <Compile Include="Tareas 2\Tarea3.cs" />
   </ItemGroup>
   <ItemGroup>
     <None Include="App.config" />
