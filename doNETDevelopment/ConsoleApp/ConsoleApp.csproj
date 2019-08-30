@@ -46,6 +46,7 @@
     <Compile Include="EjemplosDeClase\EstructuraCondicionalAnidada.cs" />
     <Compile Include="EjemplosDeClase\EstructuraCondicionalCompuesta.cs" />
     <Compile Include="EjemplosDeClase\EstructuraCondicionalSimple.cs" />
+    <Compile Include="EjemplosDeClase\EstructuraOpcionMultiple.cs" />
     <Compile Include="EjemplosDeClase\SumaProductoNumeros.cs" />
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
