@@ -56,6 +56,9 @@
     <Compile Include="Tareas 2\Tarea1.cs" />
     <Compile Include="Tareas 2\Tarea2.cs" />
     <Compile Include="Tareas 2\Tarea3.cs" />
+    <Compile Include="Tareas 3\Tarea1.cs" />
+    <Compile Include="Tareas 3\Tarea2.cs" />
+    <Compile Include="Tareas 3\Tarea3.cs" />
   </ItemGroup>
   <ItemGroup>
     <None Include="App.config" />

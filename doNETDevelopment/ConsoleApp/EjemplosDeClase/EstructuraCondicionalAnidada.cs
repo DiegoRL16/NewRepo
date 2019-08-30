@@ -15,45 +15,45 @@ namespace ConsoleApp.EjemplosDeClase
     /// </summary>
     class EstructuraCondicionalAnidada
     {
-        static void Main (string[] args)
-        {
-            //Declarar las variables
-            int n1, n2, n3;
-            int prom;
+        //static void Main (string[] args)
+        //{
+        //    //Declarar las variables
+        //    int n1, n2, n3;
+        //    int prom;
 
-            //Asignar las variables
-            Console.Write("Ingrese primer Nota: ");
-            n1 = Convert.ToInt32(Console.ReadLine());
+        //    //Asignar las variables
+        //    Console.Write("Ingrese primer Nota: ");
+        //    n1 = Convert.ToInt32(Console.ReadLine());
 
-            Console.Write("Ingrese segunda Nota: ");
-            n2 = Convert.ToInt32(Console.ReadLine());
+        //    Console.Write("Ingrese segunda Nota: ");
+        //    n2 = Convert.ToInt32(Console.ReadLine());
 
-            Console.Write("Ingrese tercer Nota: ");
-            n3 = Convert.ToInt32(Console.ReadLine());
+        //    Console.Write("Ingrese tercer Nota: ");
+        //    n3 = Convert.ToInt32(Console.ReadLine());
 
-            //Realizar las operaciones correspondientes
-            prom = (n1 + n2 + n3) / 3;
+        //    //Realizar las operaciones correspondientes
+        //    prom = (n1 + n2 + n3) / 3;
 
-            //Validacion para mostrar el mensaje correspondiente 
-            if (prom >= 7)
-            {
-                Console.WriteLine("Promocionado");
-            }
-            else
-            {
-                //Condicion Anidada
-                if (prom >= 4 && prom <7)
-                {
-                    Console.WriteLine("Regular");
-                }
-                else
-                {
-                    Console.WriteLine("Reprobado");
-                }
-            }
+        //    //Validacion para mostrar el mensaje correspondiente 
+        //    if (prom >= 7)
+        //    {
+        //        Console.WriteLine("Promocionado");
+        //    }
+        //    else
+        //    {
+        //        //Condicion Anidada
+        //        if (prom >= 4 && prom <7)
+        //        {
+        //            Console.WriteLine("Regular");
+        //        }
+        //        else
+        //        {
+        //            Console.WriteLine("Reprobado");
+        //        }
+        //    }
 
-            Console.WriteLine("Presione una tecla para salir");
-            Console.ReadKey();
-        }
+        //    Console.WriteLine("Presione una tecla para salir");
+        //    Console.ReadKey();
+        //}
     }
 }
