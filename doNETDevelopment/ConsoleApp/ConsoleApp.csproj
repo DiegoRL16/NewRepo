@@ -47,6 +47,7 @@
     <Compile Include="EjemplosDeClase\EstructuraCondicionalCompuesta.cs" />
     <Compile Include="EjemplosDeClase\EstructuraCondicionalSimple.cs" />
     <Compile Include="EjemplosDeClase\EstructuraOpcionMultiple.cs" />
+    <Compile Include="EjemplosDeClase\EstructuraRepetitivaWhile.cs" />
     <Compile Include="EjemplosDeClase\SumaProductoNumeros.cs" />
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
@@ -62,6 +63,9 @@
     <Compile Include="Tareas 3\Tarea3.cs" />
     <Compile Include="Tareas 4\Tarea1.cs" />
     <Compile Include="Tareas 4\Tarea2.cs" />
+    <Compile Include="Tareas 5\Tarea1.cs" />
+    <Compile Include="Tareas 5\Tarea2.cs" />
+    <Compile Include="Tareas 5\Tarea3.cs" />
   </ItemGroup>
   <ItemGroup>
     <None Include="App.config" />
