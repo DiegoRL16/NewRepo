@@ -51,6 +51,7 @@
     <Compile Include="EjemplosDeClase\EstructuraRepetitivaFor.cs" />
     <Compile Include="EjemplosDeClase\EstructuraRepetitivaWhile.cs" />
     <Compile Include="EjemplosDeClase\SumaProductoNumeros.cs" />
+    <Compile Include="EjemplosDeClase\TablaMultiplicar.cs" />
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
     <Compile Include="Tareas 1 - SumaProductoNumeros\Tarea1.cs" />

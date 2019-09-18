@@ -15,46 +15,47 @@ namespace ConsoleApp.Tareas_7___EstructuraRepetitivaDoWhile
         // NDC = Numero de Cuenta
         // SA = Saldo Actual
         // SU = Suma
-        static void Main(string[] args)
-        {
-            int NDC, SA, SU;
 
-            SU = 0;
+        //static void Main(string[] args)
+        //{
+        //    int NDC, SA, SU;
 
-            do
-            {
-                Console.Write("Ingrese el Numero de Cuenta: ");
-                NDC = Convert.ToInt32(Console.ReadLine());
+        //    SU = 0;
 
-                if (NDC >= 0)
-                {
-                    Console.Write("Ingrese el Saldo: $");
-                    SA = Convert.ToInt32(Console.ReadLine());
+        //    do
+        //    {
+        //        Console.Write("Ingrese el Numero de Cuenta: ");
+        //        NDC = Convert.ToInt32(Console.ReadLine());
 
-                    if (SA > 0)
-                    {
-                        Console.WriteLine("Saldo Acreedor");
-                        SU = SU + SA;
-                    }
-                    else
-                    {
-                        if (SA < 0)
-                        {
-                            Console.WriteLine("Saldo Deudor");
-                        }
-                        else
-                        {
-                            Console.WriteLine("Saldo Nulo");
-                        }
-                    }
-                }
+        //        if (NDC >= 0)
+        //        {
+        //            Console.Write("Ingrese el Saldo: $");
+        //            SA = Convert.ToInt32(Console.ReadLine());
 
-            } while (NDC >= 0);
+        //            if (SA > 0)
+        //            {
+        //                Console.WriteLine("Saldo Acreedor");
+        //                SU = SU + SA;
+        //            }
+        //            else
+        //            {
+        //                if (SA < 0)
+        //                {
+        //                    Console.WriteLine("Saldo Deudor");
+        //                }
+        //                else
+        //                {
+        //                    Console.WriteLine("Saldo Nulo");
+        //                }
+        //            }
+        //        }
 
-            Console.WriteLine("Total de saldos Acreedores: $" + SU);
+        //    } while (NDC >= 0);
 
-            Console.WriteLine("Presione una tecla para salir");
-            Console.ReadKey();
-        }
+        //    Console.WriteLine("Total de saldos Acreedores: $" + SU);
+
+        //    Console.WriteLine("Presione una tecla para salir");
+        //    Console.ReadKey();
+        //}
     }
 }
