@@ -47,10 +47,10 @@ namespace ConsoleApp.EjemplosDeClase
             Console.WriteLine();
         }
 
-        static void Main (string[] args)
-        {
-            TablaMultiplicar tm = new TablaMultiplicar(); //Se le como instancia de una clase
-            tm.CargarValor();
-        }
+        //static void Main (string[] args)
+        //{
+        //    TablaMultiplicar tm = new TablaMultiplicar(); //Se le como instancia de una clase
+        //    tm.CargarValor();
+        //}
     }
 }
